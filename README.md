@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Ronak Ambu Patel
 
-<!--
-**ronak171990/ronak171990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | 9+ yrs in Finance Ops | Transitioning into Data Analytics with hands-on project experience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tools & Skills
+`Power BI` • `Excel` • `Python` • `SQL` • `Pandas` • `Tableau` • `Web Scraping` • `Data Cleaning` • `Dashboarding`
+
+---
+
+## 💼 Freelance Services on Fiverr
+Looking for custom dashboards or data analysis?
+
+📊 I create interactive Power BI dashboards, Excel reports, and automated data workflows.
+
+🎯 **[Hire Me on Fiverr](https://www.fiverr.com/ronak1790/create-a-professional-power-bi-dashboard-with-insightful-visualizations)**  
+_1st-time buyers get bonus features!_
+
+---
+
+## 📂 Top Projects
+
+🔹 [🧠 AI Resume Analyzer (Flask + PDF)](https://github.com/ronak171990/AI-Resume-Analyzer)  
+🔹 [🚖 Uber Supply-Demand Gap Analysis](https://github.com/ronak171990/Uber-Supply-Demand-Gap)  
+🔹 [🎬 IMDb Movie Web Scraping & Analysis](https://github.com/ronak171990/IMDb-Web-Scraping-and-Analysis)  
+🔹 [📈 HR Attrition Dashboard – IBM Dataset](https://github.com/ronak171990/IBM-HR-Analytics-Employee-Attrition-)  
+🔹 [🍽️ Restaurant Sales Dashboard (Excel + Power BI)](https://github.com/ronak171990/restaurant-data-analysis)  
+🔹 [🏡 House Price Prediction (ML)](https://github.com/ronak171990/House-Price-Prediction)
+
+---
+
+## 📊 GitHub Stats
+
+![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronak171990&show_icons=true&theme=default)
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronak-patel1790)
+- ✉️ Email: ronakpatel171990@gmail.com
+- 🛠️ [GitHub](https://github.com/ronak171990)
+
+---
+
+🌟 *Open to freelance gigs, full-time analyst roles, and collaborations!*
