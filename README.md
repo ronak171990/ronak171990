@@ -1,40 +1,63 @@
 # 👋 Hi, I'm Ronak Ambu Patel
 
-🎯 Data Analyst | 9+ yrs in Finance Ops | Transitioning into Data Analytics with hands-on project experience
+🎯 Data Analyst (ex-Finance Ops, 9+ yrs) | Power BI | Python | SQL | Excel
+
+Helping businesses unlock insights from data through dashboards, automation, and machine learning.
 
 ---
 
-## 🧠 Tools & Skills
-`Power BI` • `Excel` • `Python` • `SQL` • `Pandas` • `Tableau` • `Web Scraping` • `Data Cleaning` • `Dashboarding`
+## 💼 Hire Me on Fiverr
+
+🎯 [Create Power BI Dashboards with Insightful Visuals](https://www.fiverr.com/ronak1790/create-a-professional-power-bi-dashboard-with-insightful-visualizations)  
+💬 1st-time clients get a bonus: free presentation or revision!
 
 ---
 
-## 💼 Freelance Services on Fiverr
-Looking for custom dashboards or data analysis?
+## 🧠 Tech Stack
 
-📊 I create interactive Power BI dashboards, Excel reports, and automated data workflows.
-
-🎯 **[Hire Me on Fiverr](https://www.fiverr.com/ronak1790/create-a-professional-power-bi-dashboard-with-insightful-visualizations)**  
-_1st-time buyers get bonus features!_
+`Power BI` • `SQL` • `Excel` • `Python` • `Pandas` • `Flask` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `HTML` • `GitHub` • `EDA` • `ML`
 
 ---
 
-## 📂 Top Projects
+## 📂 Featured Projects
 
-🔹 [🧠 AI Resume Analyzer (Flask + PDF)](https://github.com/ronak171990/AI-Resume-Analyzer)  
-🔹 [🚖 Uber Supply-Demand Gap Analysis](https://github.com/ronak171990/Uber-Supply-Demand-Gap)  
-🔹 [🎬 IMDb Movie Web Scraping & Analysis](https://github.com/ronak171990/IMDb-Web-Scraping-and-Analysis)  
-🔹 [📈 HR Attrition Dashboard – IBM Dataset](https://github.com/ronak171990/IBM-HR-Analytics-Employee-Attrition-)  
-🔹 [🍽️ Restaurant Sales Dashboard (Excel + Power BI)](https://github.com/ronak171990/restaurant-data-analysis)  
-🔹 [🏡 House Price Prediction (ML)](https://github.com/ronak171990/House-Price-Prediction)
+### 🔹 Business Dashboards & Power BI
+- [📊 IBM HR Analytics – Attrition & Performance](https://github.com/ronak171990/IBM-HR-Analytics-Employee-Attrition-Performance-with-PowerBI-Dashboard)
+- [📈 Higher Education Course Analytics (Power BI)](https://github.com/ronak171990/Higher-Education-Course-Data-with-Power-BI)
+- [🛒 Restaurant Sales Dashboard](https://github.com/ronak171990/restaurant-data-analysis)
+
+### 🔹 Python, EDA & Machine Learning
+- [🚖 Uber Supply-Demand Gap](https://github.com/ronak171990/Uber-Supply-Demand-Gap)
+- [🏡 House Price Prediction](https://github.com/ronak171990/House-Price-Prediction-CodeShapeITSolution)
+- [📉 Boston Housing Price Prediction](https://github.com/ronak171990/boston-housing-prediction)
+- [📦 Superstore Sales Trend Analysis](https://github.com/ronak171990/superstore-sales-trend)
+
+### 🔹 Customer Churn & Retention
+- [📞 Telco Customer Churn (ML & EDA)](https://github.com/ronak171990/Telco_customer_churn_analysis)
+- [🔄 Telco Churn – CodeShape Internship](https://github.com/ronak171990/Telco-Customer-Churn-CodeShapeITSolution)
+
+### 🔹 E-Commerce & Retail Sales
+- [🛍️ Online Retail II – EDA](https://github.com/ronak171990/Online-Retail-II-Ecommerce_EDA)
+- [📦 Retail Sales Response Analysis](https://github.com/ronak171990/retail-sales-response-analysis)
+
+### 🔹 AI & Web-Based Tools
+- [📂 AI-Powered Student Management System (Flask)](https://github.com/ronak171990/AI-Powered-Student-Management-System)
+- [🧠 AI Resume Analyzer + Portfolio Website](https://github.com/ronak171990/Portfolio-Website-with-AI-Resume-Analyzer)
+
+### 🔹 Domain-Specific Studies
+- [💡 Mental Health in Tech – EDA](https://github.com/ronak171990/Mental-Health-Survey-EDA-Analysis)
+- [🧠 Brainwave Matrix Internship](https://github.com/ronak171990/Brainwave_Matrix_Intern)
+- [🎓 SQL Project – Higher Education Data](https://github.com/ronak171990/Higher-Education-SQL-Project)
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect with Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/ronak-patel1790)
-- ✉️ Email: ronakpatel171990@gmail.com
-- 🛠️ [GitHub](https://github.com/ronak171990)
+- 📧 Email: ronakpatel171990@gmail.com
+- 🛠️ [Fiverr Gig](https://www.fiverr.com/ronak1790/create-a-professional-power-bi-dashboard-with-insightful-visualizations)
+- 🌐 [GitHub](https://github.com/ronak171990)
 
 ---
 
-🌟 *Open to freelance gigs, full-time analyst roles, and collaborations!*
+📌 *Open to freelance projects, dashboard builds, EDA tasks, and analytics roles.*
