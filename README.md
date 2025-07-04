@@ -30,12 +30,6 @@ _1st-time buyers get bonus features!_
 
 ---
 
-## 📊 GitHub Stats
-
-![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronak171990&show_icons=true&theme=default)
-
----
-
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ronak-patel1790)
 - ✉️ Email: ronakpatel171990@gmail.com
