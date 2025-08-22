@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ronak Ambu Patel
 
-🎯 Data Analyst (ex-Finance Ops, 9+ yrs) | Power BI | Python | SQL | Excel
+🎯 Data Analyst (ex-Finance Ops, 8+ yrs) | Power BI | Python | SQL | Excel
 
 Helping businesses unlock insights from data through dashboards, automation, and machine learning.
 
